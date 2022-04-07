@@ -1,0 +1,25 @@
+header{text-align: center;}
+img{height: 11vh;width: 11vw;}
+ul{width: 95vw;list-style-type: none;height: 5vh;display: flex;text-align: center;
+    background-color: rgb(222, 26, 26); direction: rtl;}
+li{padding: 1px 3vh; text-align: center; float: left; color: white;}
+#od{padding: 0px 2vh;border:2px solid white;border-radius: 35%;display:block;}
+#mvb.il{ padding: 3px 1vw; color:black}
+#mvb{ color: black}
+#mrtcl{direction: rtl;display: inline-block;}
+#ukrn{height: 50vh; width: 45vw;;padding-top: 2px;position: relative;}
+#imge{display: inline-block; width: 50vw;;}
+h1{font-size: 4vw; margin-top: 2px;}
+.frtcl{width: 45vw;background-color: rgb(222, 26, 26);color: white; direction: rtl;}
+#fvbx{height: 15vh; background-color: rgb(233, 233, 233);display: flex;
+     direction: rtl; padding-top: 2vh; padding-bottom: 2vh;}
+.fvsec{background-color: rgb(233, 233, 233); width: 16vw; border-left: dotted 1px black;
+    margin: 2px;}
+#khnb{ display: inline;}
+#tblf{background-color: blue;direction: rtl;width:47vw; position: absolute;
+    right:1px; height: 5vh; color: white; margin:none ;display: flex; }
+#tbls{background-color: blue;width: 47vw; height: 5vh; direction: rtl; color: white;}
+#sximg{width: 95vw; display: flex;}
+.hpfrtcl{float: left;margin-top: 1px; direction: rtl;margin-bottom: 1vh; }
+.insximg{padding: 0vh 2vw;}
+#fustrition{ display: block;}
